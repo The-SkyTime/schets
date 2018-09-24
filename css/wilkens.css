@@ -1,0 +1,30 @@
+body {
+    background-color: yellow;
+}
+
+header {
+    background-color: red;
+}
+header.pad {
+    padding: 30px;
+}
+
+section {
+    background-color: green;
+}
+
+section.bor {
+    border: solid black 1px;
+}
+
+div.wrapper {
+    width: 960px;
+    margin: auto;
+}
+
+footer {
+    background-color: black;
+}
+footer.padd {
+    padding: 20px;
+}
